@@ -15,13 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Student.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="AnswersReader.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="CSVReader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StudentSurveyData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SurveyManager.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
