@@ -6,7 +6,7 @@
 #include <boost/algorithm/string.hpp>
 #include <vector>
 
-class GoogleFormsReader
+class CSVReader
 {
 public:
 	//Note: rename svc file to txt file (simply change extension)

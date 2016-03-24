@@ -1,11 +1,11 @@
 #include "AnswersReader.h"
-#include "GoogleFormsReader.h"
+#include "CSVReader.h"
 
 // this is a github test
 
 void main()
 {
-	GoogleFormsReader reader;
+	CSVReader reader;
 	reader.read("CSE2014 20160316 ДыБо Ch3_ansi.txt");
 
 //	for (int l = 0; l < (int)reader.strs_list_.size(); l++)

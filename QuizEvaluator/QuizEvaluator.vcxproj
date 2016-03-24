@@ -144,7 +144,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="AnswersReader.h" />
-    <ClInclude Include="GoogleFormsReader.h" />
+    <ClInclude Include="CSVReader.h" />
     <ClInclude Include="Student.h" />
   </ItemGroup>
   <ItemGroup>

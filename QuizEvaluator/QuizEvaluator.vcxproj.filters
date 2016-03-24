@@ -18,10 +18,10 @@
     <ClInclude Include="Student.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="GoogleFormsReader.h">
+    <ClInclude Include="AnswersReader.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="AnswersReader.h">
+    <ClInclude Include="CSVReader.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
